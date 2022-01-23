@@ -4,6 +4,8 @@
 ## Hi, my name is Tennison Capra! 👋
 
 </br>
+
+<h3>I'm enrolled in <em>FATEC-ITU<em> (technology faculty, Itu-SP campus), in the <em>Systems Analysis and Development</em> course (aka <em>ADS</em>, aka <em>Análise e Desenvolvimento de Sistemas</em>). Now in february of 2022 I'm gonna be starting the 2nd semester from a total of 6 semesters. I'm using my free time to study JAVA for backend. In the past several weeks I already studied: <strong>Java Basic</strong>, <strong>Java OOP</strong>, <strong>Data Structure in Java</strong>, <strong>Java Collections Framework</strong>, <strong>Java Streams</strong>, <strong>MySQL</strong>, <strong>SQL Server</strong>, <strong>HTTP Methods</strong>, <strong>Restful API</strong>, <strong>Spring Framework and Srping Boot</strong>.</h3>
 <div align="center">
   <a href="https://github.com/teteUser">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=teteUser&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
