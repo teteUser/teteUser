@@ -1,6 +1,6 @@
 
 
-# Hi, my name is Tennison Capra! 👋
+<h1 align="center"> Hi, my name is Tennison Capra! 👋 </h1>
 
 </br>
 
