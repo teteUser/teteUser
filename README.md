@@ -4,7 +4,7 @@
 
 </br>
 
-<h3>I'm enrolled in <em>FATEC-ITU<em> (technology faculty, Itu-SP campus), in the <em>Systems Analysis and Development</em> course (aka <em>ADS</em>, aka <em>Análise e Desenvolvimento de Sistemas</em>). Now in february of 2022 I'm gonna be starting the 2nd semester from a total of 6 semesters. I'm using my free time to study JAVA for backend. In the past several weeks I already studied: <strong>Java Basics</strong>, <strong>Java OOP</strong>, <strong>Data Structure in Java</strong>, <strong>Java Collections Framework</strong>, <strong>Java Streams</strong>, <strong>MySQL</strong>, <strong>SQL Server</strong>, <strong>HTTP Methods</strong>, <strong>Restful API</strong> and <strong>Spring Boot</strong>. I'll continue to use my free time to get better and better at those topics I just mentioned and to study more things related to such stack.</br>It's also important to say that I'm really enjoying studying Java, it's utterly pleasant.</h3>
+<h3>I'm currently studying <em>Systems Analysis and Development</em> (aka <em>ADS</em>, aka <em>Análise e Desenvolvimento de Sistemas</em>).
  
  </br>
  <h4>Check me out on <a rel="external-link" href="https://www.linkedin.com/in/tennisonCapra" target="_blank">LinkedIn</a>.</h4>
